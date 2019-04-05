@@ -1,0 +1,507 @@
+2
+To
+
+24/7
+Twenty-four hours a day, seven days a week
+
+411
+Information
+
+AFAIK
+As far as I know
+
+AFK
+Away from keyboard
+
+AIM
+AOL Instant Messenger
+
+AKA
+Also known as
+
+AM
+Antemeridian
+
+AOL
+America Online
+
+ASAP
+As soon as possible
+
+ASL
+Age, sex, location
+
+ATM
+At the moment
+
+B/C
+Because
+
+B/W
+Between
+
+B4
+Before
+
+BBIAB
+Be back in a bit
+
+BBL
+Be back later
+
+BBS
+Be back soon
+
+BCC
+Blind carbon copy
+
+BF
+Boyfriend
+
+BFF
+Best friends forever
+
+BLOG
+Web log
+
+BRB
+Be right back
+
+BRB
+Bathroom break
+
+BTW
+By the way
+
+BUCK
+Dollar
+
+CAB
+Taxi
+
+CC
+Carbon copy
+
+CC
+I understand
+
+CTN
+Can't talk now
+
+CYA
+See ya
+
+CYE
+Check your email
+
+DIY
+Do it yourself
+
+DL
+Download
+
+DL
+Down low
+
+DL
+Doing Laundry
+
+ETA
+Estimated time of arrival
+
+ETA
+Edited to add
+
+F
+Female
+
+FAQ
+Frequently Asked Questions
+
+FB
+Facebook
+
+FTW
+For the win
+
+FUBAR
+Fouled up beyond all recognition
+
+FWIW
+For what it's worth
+
+FYI
+For your information
+
+GF
+Girlfriend
+
+GF
+Gluten-Free
+
+GG
+Good game
+
+GG
+Good grief
+
+GJ
+Good job
+
+GL
+Good luck
+
+GL
+Get lost
+
+GR8
+Great
+
+GTG
+Got to go
+
+HAHA
+Laughing
+
+HOAS
+Hold on a second
+
+HOAS
+Heck of a shot
+
+HTH
+Hope this helps
+
+HW
+Homework
+
+HW
+Hardware
+
+IAC
+In any case
+
+IC
+I see
+
+IC
+In character
+
+IDK
+I don't know
+
+IIRC
+If I remember correctly
+
+IKR
+I know, right?
+
+IM
+Instant message
+
+IM
+Instant Messenger
+
+IMO
+In my opinion
+
+IRT
+In regards to
+
+J/K
+Just kidding
+
+K
+OK
+
+K
+Kiss
+
+L8
+Late
+
+L8R
+Later
+
+LMAO
+Laughing my a** off
+
+LMK
+Let me know
+
+LOL
+Laughing out loud
+
+LOL
+League of Legends
+
+LOL
+Lots of love
+
+LOL
+Little old lady
+
+M
+Male
+
+MATE
+Friend
+
+MMB
+Message me back
+
+MMO
+Massively multiplayer online
+
+MSG
+Message
+
+MYOB
+Mind your own business
+
+N/A
+Not Available
+
+N/A
+Not applicable
+
+NC
+No comment
+
+NC
+Nice call
+
+NC
+Not cool
+
+NE1
+Anyone
+
+NM
+Not much
+
+NM
+Nevermind
+
+NOOB
+Newbie
+
+NP
+No problem
+
+NP
+Neopets
+
+NTN
+No thanks needed
+
+OMG
+Oh my gosh
+
+OMW
+On my way
+
+OT
+Off topic
+
+OT
+Other topic
+
+OT
+Overtime
+
+PC
+Personal computer
+
+PHAT
+Pretty hot and tempting
+
+PK
+Player kill
+
+PLS
+Please
+
+PM
+Postmeridian
+
+PM
+Private message
+
+POS
+Parent over shoulder
+
+POS
+Piece of s***
+
+POS
+Power of suggestion
+
+PPL
+People
+
+PWN
+To dominate
+
+QT
+Cutie
+
+RE
+Regarding
+
+RE
+Resident Evil
+
+ROFL
+Rolling on the floor laughing
+
+ROFL
+Rolling over freakin' laughing
+
+ROTFL
+Rolling on the floor laughing
+
+RPG
+Role-playing game
+
+RSVP
+Répondez s'il vous plaît
+
+RTFM
+Read the flippin' manual
+
+SELFIE
+A picture of yourself
+
+SMH
+Shaking my head
+
+SMH
+Smash my head
+
+SMH
+Scratching my head
+
+SOS
+Someone over shoulder
+
+SOS
+Save our souls
+
+SOS
+Same old stuff
+
+SOS
+Someone special
+
+SRY
+Sorry
+
+SUP
+What's up
+
+TBA
+To be announced
+
+TBC
+To be continued
+
+TBD
+To be determined
+
+TC
+Take care
+
+TC
+That's cool
+
+TFW
+That feeling when
+
+THX
+Thanks
+
+TIA
+Thanks in advance
+
+TLC
+Tender love and care
+
+TMI
+Too much information
+
+TTFN
+Ta-ta for now
+
+TTYL
+Talk to you later
+
+TWEET
+Twitter post
+
+TXT
+Text
+
+TY
+Thank you
+
+U
+You
+
+U2
+You too
+
+UR
+Your
+
+UR
+You are
+
+VM
+Voicemail
+
+W/
+With
+
+W/E
+Whatever
+
+W/O
+Without
+
+W8
+Wait
+
+WB
+Write back
+
+WB
+Welcome back
+
+WB
+Way bored
+
+WTF
+What the f***
+
+XDD
+Laughing especially hard
+
+XOXO
+Hugs and kisses
+
+Y
+Why
+
+Y
+Yawning
+
+YOLO
+You only live once
+
+YW
+You're welcome
+
+ZZZ
+Sleeping
+

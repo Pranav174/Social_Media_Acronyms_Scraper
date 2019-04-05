@@ -1,0 +1,300 @@
+2
+1: To
+24/7
+1: Twenty-four hours a day, seven days a week
+411
+1: Information
+AFAIK
+1: As far as I know
+AFK
+1: Away from keyboard
+AIM
+1: AOL Instant Messenger
+AKA
+1: Also known as
+AM
+1: Antemeridian
+AOL
+1: America Online
+ASAP
+1: As soon as possible
+ASL
+1: Age, sex, location
+ATM
+1: At the moment
+B/C
+1: Because
+B/W
+1: Between
+B4
+1: Before
+BBIAB
+1: Be back in a bit
+BBL
+1: Be back later
+BBS
+1: Be back soon
+BCC
+1: Blind carbon copy
+BF
+1: Boyfriend
+BFF
+1: Best friends forever
+BLOG
+1: Web log
+BRB
+1: Be right back
+2: Bathroom break
+BTW
+1: By the way
+BUCK
+1: Dollar
+CAB
+1: Taxi
+CC
+1: Carbon copy
+2: I understand
+CTN
+1: Can't talk now
+CYA
+1: See ya
+CYE
+1: Check your email
+DIY
+1: Do it yourself
+DL
+1: Download
+2: Down low
+3: Doing Laundry
+ETA
+1: Estimated time of arrival
+2: Edited to add
+F
+1: Female
+FAQ
+1: Frequently Asked Questions
+FB
+1: Facebook
+FTW
+1: For the win
+FUBAR
+1: Fouled up beyond all recognition
+FWIW
+1: For what it's worth
+FYI
+1: For your information
+GF
+1: Girlfriend
+2: Gluten-Free
+GG
+1: Good game
+2: Good grief
+GJ
+1: Good job
+GL
+1: Good luck
+2: Get lost
+GR8
+1: Great
+GTG
+1: Got to go
+HAHA
+1: Laughing
+HOAS
+1: Hold on a second
+2: Heck of a shot
+HTH
+1: Hope this helps
+HW
+1: Homework
+2: Hardware
+IAC
+1: In any case
+IC
+1: I see
+2: In character
+IDK
+1: I don't know
+IIRC
+1: If I remember correctly
+IKR
+1: I know, right?
+IM
+1: Instant message
+2: Instant Messenger
+IMO
+1: In my opinion
+IRT
+1: In regards to
+J/K
+1: Just kidding
+K
+1: OK
+2: Kiss
+L8
+1: Late
+L8R
+1: Later
+LMAO
+1: Laughing my a** off
+LMK
+1: Let me know
+LOL
+1: Laughing out loud
+2: League of Legends
+3: Lots of love
+4: Little old lady
+M
+1: Male
+MATE
+1: Friend
+MMB
+1: Message me back
+MMO
+1: Massively multiplayer online
+MSG
+1: Message
+MYOB
+1: Mind your own business
+N/A
+1: Not Available
+2: Not applicable
+NC
+1: No comment
+2: Nice call
+3: Not cool
+NE1
+1: Anyone
+NM
+1: Not much
+2: Nevermind
+NOOB
+1: Newbie
+NP
+1: No problem
+2: Neopets
+NTN
+1: No thanks needed
+OMG
+1: Oh my gosh
+OMW
+1: On my way
+OT
+1: Off topic
+2: Other topic
+3: Overtime
+PC
+1: Personal computer
+PHAT
+1: Pretty hot and tempting
+PK
+1: Player kill
+PLS
+1: Please
+PM
+1: Postmeridian
+2: Private message
+POS
+1: Parent over shoulder
+2: Piece of s***
+3: Power of suggestion
+PPL
+1: People
+PWN
+1: To dominate
+QT
+1: Cutie
+RE
+1: Regarding
+2: Resident Evil
+ROFL
+1: Rolling on the floor laughing
+2: Rolling over freakin' laughing
+ROTFL
+1: Rolling on the floor laughing
+RPG
+1: Role-playing game
+RSVP
+1: Répondez s'il vous plaît
+RTFM
+1: Read the flippin' manual
+SELFIE
+1: A picture of yourself
+SMH
+1: Shaking my head
+2: Smash my head
+3: Scratching my head
+SOS
+1: Someone over shoulder
+2: Save our souls
+3: Same old stuff
+4: Someone special
+SRY
+1: Sorry
+SUP
+1: What's up
+TBA
+1: To be announced
+TBC
+1: To be continued
+TBD
+1: To be determined
+TC
+1: Take care
+2: That's cool
+TFW
+1: That feeling when
+THX
+1: Thanks
+TIA
+1: Thanks in advance
+TLC
+1: Tender love and care
+TMI
+1: Too much information
+TTFN
+1: Ta-ta for now
+TTYL
+1: Talk to you later
+TWEET
+1: Twitter post
+TXT
+1: Text
+TY
+1: Thank you
+U
+1: You
+U2
+1: You too
+UR
+1: Your
+2: You are
+VM
+1: Voicemail
+W/
+1: With
+W/E
+1: Whatever
+W/O
+1: Without
+W8
+1: Wait
+WB
+1: Write back
+2: Welcome back
+3: Way bored
+WTF
+1: What the f***
+XDD
+1: Laughing especially hard
+XOXO
+1: Hugs and kisses
+Y
+1: Why
+2: Yawning
+YOLO
+1: You only live once
+YW
+1: You're welcome
+ZZZ
+1: Sleeping
