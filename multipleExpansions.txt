@@ -1,0 +1,66 @@
+1: Be right back
+2: Bathroom break
+3: Carbon copy
+4: I understand
+5: Download
+6: Down low
+7: Doing Laundry
+8: Estimated time of arrival
+9: Edited to add
+10: Girlfriend
+11: Gluten-Free
+12: Good game
+13: Good grief
+14: Good luck
+15: Get lost
+16: Hold on a second
+17: Heck of a shot
+18: Homework
+19: Hardware
+20: I see
+21: In character
+22: Instant message
+23: Instant Messenger
+24: OK
+25: Kiss
+26: Laughing out loud
+27: League of Legends
+28: Lots of love
+29: Little old lady
+30: Not Available
+31: Not applicable
+32: No comment
+33: Nice call
+34: Not cool
+35: Not much
+36: Nevermind
+37: No problem
+38: Neopets
+39: Off topic
+40: Other topic
+41: Overtime
+42: Postmeridian
+43: Private message
+44: Parent over shoulder
+45: Piece of shit
+46: Power of suggestion
+47: Regarding
+48: Resident Evil
+49: Rolling on the floor laughing
+50: Rolling over freakin' laughing
+51: Shaking my head
+52: Smash my head
+53: Scratching my head
+54: Someone over shoulder
+55: Save our souls
+56: Same old stuff
+57: Someone special
+58: Take care
+59: That's cool
+60: Your
+61: You are
+62: Write back
+63: Welcome back
+64: Way bored
+65: Why
+66: Yawning
